@@ -20,7 +20,12 @@
  
   - <h2>👨‍💻 Certifications:</h2>
   [Google IT Professional]
+
   [CompTiA+]
+
+ [Microsoft Azure Fundamentals]
+
+[AZ-104: Deploy and manage Azure compute resources]
   
 
 <h2>📺 Popular YouTube Videos</h2>
