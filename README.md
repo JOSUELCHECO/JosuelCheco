@@ -12,6 +12,7 @@
   - [Hard Drive Failure Diagnosis and Replacement](link here) <b><i>(notes here)</b></i>
 
     [Laptop Battery Replacement and Calibration](link here) <b><i>(notes here)</b></i>
+   
 - <b>Remote Technical Support Initiative</b>
   - [Software Installation and Configuration Support](link here)
   - [Password Reset and Account Recovery(Application)](link here)
@@ -29,9 +30,11 @@
 
   [CompTiA+]
 
- [Microsoft Azure Fundamentals]
+  [Microsoft Azure Fundamentals]
 
-[AZ-104: Deploy and manage Azure compute resources]
+  [AZ-104: Deploy and manage Azure compute resources]
+
+  [Customer Service]
   
 
 <h2>📺 Popular YouTube Videos</h2>
