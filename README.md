@@ -11,7 +11,7 @@
 - <b>Hardware Troubleshooting and Repair (Window)</b>
   - [Hard Drive Failure Diagnosis and Replacement](link here) <b><i>(notes here)</b></i>
 
-    [Laptop Battery Replacement and Calibration](link here) <b><i>(notes here)</b></i>
+  -  [Laptop Battery Replacement and Calibration](link here) <b><i>(notes here)</b></i>
    
 - <b>Remote Technical Support Initiative</b>
   - [Software Installation and Configuration Support](link here)
@@ -25,7 +25,7 @@
 - <b>Customer Self Service Knowledge Base</b>
   - [Created Step-by-Step Guides for Common IT Issues (Applications)](link here)
  
-  - <h2>👨‍💻 Certifications:</h2>
+   <h2>👨‍💻 Certifications:</h2>
   [Google IT Professional]
 
   [CompTiA+]
