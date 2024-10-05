@@ -26,15 +26,15 @@
   - [Created Step-by-Step Guides for Common IT Issues (Applications)](link here)
  
    <h2>👨‍💻 Certifications:</h2>
-  [Google IT Professional]
+ - [Google IT Professional]
 
-  [CompTiA+]
+ - [CompTiA+]
 
-  [Microsoft Azure Fundamentals]
+ - [Microsoft Azure Fundamentals]
 
-  [AZ-104: Deploy and manage Azure compute resources]
+ - [AZ-104: Deploy and manage Azure compute resources]
 
-  [Customer Service]
+ - [Customer Service]
   
 
 <h2>📺 Popular YouTube Videos</h2>
