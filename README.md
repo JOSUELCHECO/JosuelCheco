@@ -2,28 +2,16 @@
 
 <h2>👨‍💻 Help Desk Technician Projects:</h2>
 
-- <b>Operating System Installation and Configuration (Oracle Virtualbox)</b>
-  - [Setup a basic home lab running Active Directory](Link here)
- 
-  - [Windows OS Deployment Across Multiple Workstations](Link here)
- 
-  - [Configuring User Profiles and Permissions in Windows](Link here)
-- <b>Hardware Troubleshooting and Repair (Window)</b>
-  - [Hard Drive Failure Diagnosis and Replacement](link here) <b><i>(notes here)</b></i>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-  -  [Laptop Battery Replacement and Calibration](link here) <b><i>(notes here)</b></i>
-   
-- <b>Remote Technical Support Initiative</b>
-  - [Software Installation and Configuration Support](link here)
-  - [Password Reset and Account Recovery(Application)](link here)
-  - [Resolve Network Connectivity Issues Remotely](link here)
-  - [Remote Printer Setup and Troubleshooting)](link here)
-- <b>Data Backup and Recovery (xyz Applications)</b>
-  - [Automated Cloud Backup Setup (Application)](link here)
-  - [Full System Backup and Restoration Testing)](link here)
-  - [Distater Recovery Plan for Critical Data](link here)
-- <b>Customer Self Service Knowledge Base</b>
-  - [Created Step-by-Step Guides for Common IT Issues (Applications)](link here)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
  
    <h2>👨‍💻 Certifications:</h2>
  - [Google IT Professional]
