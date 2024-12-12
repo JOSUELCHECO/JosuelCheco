@@ -7,6 +7,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JOSUELCHECO/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JOSUELCHECO/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JOSUELCHECO/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josuelcheco/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josuelcheco/azure-network-protocols)
 
  <h2>👨‍💻 Certifications:</h2>
  - [Google IT Professional]
