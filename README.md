@@ -12,11 +12,14 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josuelcheco/azure-network-protocols)
 
  <h2>👨‍💻 Certifications:</h2>
- - [Google IT Professional]
 
  - [CompTiA+](https://www.credly.com/badges/ab10f676-950e-474e-836b-221ccd56acaf/public_url)
 
+ - [Perscholas IT Support Training](https://imgur.com/a/044V3Ec)
+
  - [Microsoft Azure Fundamentals]
+
+- [Google IT Professional]
 
  - [AZ-104: Deploy and manage Azure compute resources]
 
