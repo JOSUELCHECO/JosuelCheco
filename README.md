@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua! <br/><a href="https://github.com/josuelcheco">IT Professional</a>, <a href="https://www.linkedin.com/in/joshuacheco">Technician</a>, <a href="https://www.youtube.com/c/link here"> YouTuber</a></h1>
+<h1>Hi, I'm Joshua, an <a href="https://linkedin.com/in/Joshuacheco">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Help Desk Technician Projects:</h2>
 
